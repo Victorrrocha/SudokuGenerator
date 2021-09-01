@@ -1,0 +1,16 @@
+simples jogo de sudoku
+
+fluxo:
+botão para iniciar o jogo
+gera o tabuleiro, esconde alguns números
+Seleciona qual espaço quer colocar o numero
+depois seleciona o numero que se quer colocar ali
+Testa para ver se ainda existem espaços vazios
+Se não, testa para ver se o tabuleiro gerado é igual ao tabuleiro gerado, ou se também é um tabuleiro válido
+Se estiver tudo ok, troca a cor do texto dos números e trava o tabuleiro e o teclado.
+
+funções
+- Gera um tabuleiro
+- gerar uma cópia do tabuleiro com alguns números iguais a zero
+- preenche o tabuleiro com numeros fixos
+- trocar a cor da celula para indicar linha, coluna e box
